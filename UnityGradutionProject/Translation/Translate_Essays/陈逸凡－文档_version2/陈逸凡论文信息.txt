@@ -1,0 +1,23 @@
+陈逸凡使用的外文文献信息：
+
+论文名称：
+Analysis of Movement,Orientation and Rotation-Based Sensing for Phone Placement Recognition
+
+论文名称翻译：
+基于运动，方向，旋转传感器的手机态势识别算法
+
+作者：
+Ozlem Durmaz Incel
+
+出版地：Department of Computer Engineering, Galatasaray University, Ciragan Cad. No:36, Ortakoy, Istanbul 34349, Turkey;
+
+出版时间：5 October 2015
+
+翻译内容页码：
+	第1页到第33页
+
+原文词数：
+	14333个词
+
+预计翻译结果字数：
+	16000个字
